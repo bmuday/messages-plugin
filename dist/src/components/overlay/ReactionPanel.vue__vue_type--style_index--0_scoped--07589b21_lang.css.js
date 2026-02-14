@@ -1,0 +1,6 @@
+import { createHotContext as __vite__createHotContext } from "/vendor/vite-client.js";import.meta.hot = __vite__createHotContext("/src/components/overlay/ReactionPanel.vue__vue_type--style_index--0_scoped--07589b21_lang.css.js");import { updateStyle as __vite__updateStyle, removeStyle as __vite__removeStyle } from "/vendor/vite-client.js"
+const __vite__id = "/workspaces/messages-plugin/src/components/overlay/ReactionPanel.vue?vue&type=style&index=0&scoped=07589b21&lang.css"
+const __vite__css = "\n.community-filter[data-v-07589b21] {\n  margin-bottom: 16px;\n}\n.community-filter select[data-v-07589b21] {\n  width: 100%;\n  padding: 8px 12px;\n  border: 2px solid var(--border);\n  border-radius: 6px;\n  font-size: 14px;\n  background: white;\n  cursor: pointer;\n}\n.login-prompt[data-v-07589b21] {\n  text-align: center;\n  padding: 20px;\n  background: rgba(99, 102, 241, 0.05);\n  border-radius: 8px;\n  margin-bottom: 20px;\n}\n.login-prompt p[data-v-07589b21] {\n  margin-bottom: 12px;\n  color: var(--text-light);\n}\n"
+__vite__updateStyle(__vite__id, __vite__css)
+import.meta.hot.accept()
+import.meta.hot.prune(() => __vite__removeStyle(__vite__id))
